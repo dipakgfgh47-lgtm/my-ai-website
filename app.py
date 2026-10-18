@@ -10,6 +10,7 @@ HTML = r"""
 <!DOCTYPE html>
 <html lang="hi">
 <head>
+<meta name="google-site-verification" content="FiiiKSCP3hEi9NArYQD4c0_Jy71bbaOEDQXVAByJfqg" />
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="theme-color" content="#212121">
